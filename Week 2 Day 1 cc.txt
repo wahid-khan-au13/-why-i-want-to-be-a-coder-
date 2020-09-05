@@ -1,0 +1,10 @@
+Q1. Explain in details Github
+
+Answer -
+1) all our is sitting local computers whatever we are doing on it but you share your code to multiple devlopers you something in cloud 
+Which you can talk whats we are commits doing Gitbash whateevr changes are in my local machine which in want push to the cloud. new devloper he just pull our codes to his local machine
+
+2) Github is cloud provider. many companys are their gives a cloud git
+
+3) Github is like user has done some work on it and pushed to Github as repository. and their are mulitples devloper can clone our repository do some changes. whenever they do they push
+back thier changes to repo. again you pull your repo even you change whatever you want
